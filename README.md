@@ -9,5 +9,6 @@ Source code of http://www.javaworld.com/article/2072203/build-ci-sdlc/an-introdu
 # Compile
 
 ```bash
+mvn clean
 mvn compile
 ```
